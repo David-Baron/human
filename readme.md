@@ -2,7 +2,7 @@
 
 ## Install
 
-Download the [archive](https://github.com/David-Baron/archive/master.zip)
+Download the [archive](https://github.com/David-Baron/human/archive/master.zip)
 
 ## Getting started
 
