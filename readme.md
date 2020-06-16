@@ -2,7 +2,7 @@
 
 ## Install
 
-Download the [zip archive]([https://github.com/David-Baron/human/tree/master/examples](https://github.com/David-Baron/archive/master.zip))
+Download the [files]([https://github.com/David-Baron/human/tree/master/examples](https://github.com/David-Baron/archive/master.zip))
 
 ## Getting started
 
