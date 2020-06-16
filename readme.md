@@ -1,5 +1,9 @@
 # Human
 
+## Install
+
+Download the [zip archive]([https://github.com/David-Baron/human/tree/master/examples](https://github.com/David-Baron/archive/master.zip))
+
 ## Getting started
 
 On the head add the style
