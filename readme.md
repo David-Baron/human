@@ -8,13 +8,13 @@ On the head add the style
 <link rel="stylesheet" href="../path/to/dist/human.css">
 ```
 
-On the page body add the human container
+On the page body add the human container in the form before the submit button
 
 ```bash
 <div id="human" class="human"></div>
 ```
 
-On the body add the script in the form before the submit button
+On the body add the script
 
 ```bash
 <script src="../path/to/dist/human.js"></script>
