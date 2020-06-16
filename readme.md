@@ -14,7 +14,7 @@ On the page body add the human container
 <div id="human" class="human"></div>
 ```
 
-On the body add the script
+On the body add the script in the form before the submit button
 
 ```bash
 <script src="../path/to/dist/human.js"></script>
