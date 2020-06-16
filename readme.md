@@ -22,4 +22,4 @@ On the body add the script
 
 ## Example
 
-Please take a look at [https://github.com/david-baron/human.git/example](https://github.com/david-baron/human.git/example)
+Please take a look at [https://github.com/David-Baron/human/tree/master/examples](https://github.com/David-Baron/human/tree/master/examples)
