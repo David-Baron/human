@@ -1,0 +1,39 @@
+.human {
+    width: 300px;
+    height: auto;
+}
+
+.human-res {
+    margin-top: 10px;
+    width: 100%;
+}
+
+canvas {
+    display: none;
+}
+
+#humanImg {
+    position: relative;
+    border: 1px solid #d3d3d3;
+}
+
+#humanBtn,
+#humanRst {
+    position: relative;
+    height: 35px;
+}
+
+#humanTxt {
+    position: relative;
+    display: none;
+}
+
+#humanRes {
+    position: relative;
+    width: 200px;
+    padding: 5px;
+}
+
+.display-none {
+    display: none;
+}
